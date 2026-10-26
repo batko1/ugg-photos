@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-26T16:38:22+04:00">
+<yml_catalog date="2026-10-26T16:57:28+04:00">
 <shop>
 <name>UGG Россия</name>
 <company>UGG Россия</company>
@@ -7532,7 +7532,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="919665683731" available="false" group_id="441913171">
+<offer id="919665683731" available="true" group_id="441913171">
 <name>Ботинки женские UGG Neumel Flex, цвет Grey-Violet</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/104441913171-womens-neumel-flex</url>
@@ -8114,7 +8114,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="770947799751" available="false" group_id="341420001">
+<offer id="770947799751" available="true" group_id="341420001">
 <name>Ботинки женские UGG Funkette Platform Boots, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/832341420001-womens-funkette-platform-boots</url>
@@ -12629,7 +12629,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="973189952003" available="true" group_id="455229881">
+<offer id="973189952003" available="false" group_id="455229881">
 <name>Ботинки женские UGG Tasman Hybrid, цвет Chocolate</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/837455229881-womens-tasman-hybrid</url>
@@ -15032,7 +15032,7 @@ RN 88276
 <param name="Размер" unit="RU">40</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="335954766091" available="false" group_id="19614241">
+<offer id="335954766091" available="true" group_id="19614241">
 <name>Ботинки женские UGG Classic Clear Mini, цвет Leopard</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/701019614241-ugg-classic-clear-mini</url>
@@ -18539,7 +18539,7 @@ RN 88276
 <param name="Размер" unit="RU">40</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="823277916603" available="true" group_id="200411873">
+<offer id="823277916603" available="false" group_id="200411873">
 <name>Слипоны женские UGG Classic Fat Ding Slip On, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/590200411873-womens-classic-fat-ding-slip-on</url>
@@ -19181,7 +19181,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="891559251633" available="true" group_id="438968723">
+<offer id="891559251633" available="false" group_id="438968723">
 <name>Слипоны женские UGG Elea Slip On, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/256438968723-womens-elea-slip-on</url>
@@ -21599,7 +21599,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="202082538753" available="false" group_id="963358083">
+<offer id="202082538753" available="true" group_id="963358083">
 <name>Ботинки мужские UGG Classic Mini Guard GTX Boot, цвет Guard Chocolate</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/757963358083-mens-classic-mini-guard-gtx-boot</url>
@@ -25225,7 +25225,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="821343589773" available="true" group_id="811725923">
+<offer id="821343589773" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25239,7 +25239,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="601508959763" available="true" group_id="811725923">
+<offer id="601508959763" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25253,7 +25253,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="665086941823" available="true" group_id="811725923">
+<offer id="665086941823" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25267,7 +25267,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="450159848233" available="true" group_id="811725923">
+<offer id="450159848233" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25281,7 +25281,7 @@ RN 88276
 <param name="Размер" unit="RU">39</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="708484422723" available="true" group_id="811725923">
+<offer id="708484422723" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25295,7 +25295,7 @@ RN 88276
 <param name="Размер" unit="RU">40</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="289385538583" available="true" group_id="811725923">
+<offer id="289385538583" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25309,7 +25309,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="132257091553" available="true" group_id="811725923">
+<offer id="132257091553" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25323,7 +25323,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="395088075373" available="true" group_id="811725923">
+<offer id="395088075373" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25337,7 +25337,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="112209752853" available="true" group_id="811725923">
+<offer id="112209752853" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25351,7 +25351,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="933753756563" available="true" group_id="811725923">
+<offer id="933753756563" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25365,7 +25365,7 @@ RN 88276
 <param name="Размер" unit="RU">39</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="710092944203" available="true" group_id="811725923">
+<offer id="710092944203" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25379,7 +25379,7 @@ RN 88276
 <param name="Размер" unit="RU">40</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="699851341133" available="true" group_id="811725923">
+<offer id="699851341133" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25393,7 +25393,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="335334169733" available="true" group_id="811725923">
+<offer id="335334169733" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25407,7 +25407,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="450234351463" available="true" group_id="811725923">
+<offer id="450234351463" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25421,7 +25421,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="481944788833" available="true" group_id="811725923">
+<offer id="481944788833" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25435,7 +25435,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="472369251433" available="true" group_id="811725923">
+<offer id="472369251433" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25449,7 +25449,7 @@ RN 88276
 <param name="Размер" unit="RU">39</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="837632123283" available="true" group_id="811725923">
+<offer id="837632123283" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -25463,7 +25463,7 @@ RN 88276
 <param name="Размер" unit="RU">40</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="778995700853" available="true" group_id="811725923">
+<offer id="778995700853" available="false" group_id="811725923">
 <name>Кроссовки женские UGG Lowmel Low Sneaker, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/377811725923-womens-lowmel-low-sneaker</url>
@@ -27101,7 +27101,7 @@ RN 88276
 <param name="Размер" unit="RU">42</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="401588016473" available="true" group_id="164746033">
+<offer id="401588016473" available="false" group_id="164746033">
 <name>Ботинки мужские UGG Ultra Mini Hybrid, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/510164746033-mens-ultra-mini-hybrid</url>
@@ -27339,7 +27339,7 @@ RN 88276
 <param name="Размер" unit="RU">39</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="859091333523" available="true" group_id="731246673">
+<offer id="859091333523" available="false" group_id="731246673">
 <name>Ботинки женские UGG Classic Ultra Mini, цвет Smoke</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/384731246673-womens-classic-ultra-mini</url>
@@ -29061,7 +29061,7 @@ RN 88276
 <param name="Размер" unit="RU">40</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="790168504263" available="true" group_id="969844593">
+<offer id="790168504263" available="false" group_id="969844593">
 <name>Слипоны женские UGG Tasman Slipper GTX, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/469969844593-womens-tasman-slipper-gtx</url>
@@ -29605,6 +29605,20 @@ RN 88276
 Цвета в наличии: Black, Chestnut. Доступные размеры показаны при выборе цвета.</description>
 <param name="Цвет">Chestnut</param>
 <param name="Размер" unit="RU">39</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="331256593973" available="true" group_id="987663053">
+<name>Слипоны женские UGG Finish Slipper, цвет Alpine</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/914987663053-womens-finish-slipper</url>
+<price>10000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3136-6266-4539-b361-333463626431/0386b24fea691560dd90343ba77e2952.jpg</picture>
+<description>UGG Finish Slipper — слипоны для женщин.
+Цвета в наличии: Black, Chestnut. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Alpine</param>
+<param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
 <offer id="671594439933" available="true" group_id="364409273">
@@ -31819,7 +31833,7 @@ RN 88276
 <param name="Размер" unit="RU">46</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="990401501203" available="true" group_id="76959473">
+<offer id="990401501203" available="false" group_id="76959473">
 <name>Слипоны женские UGG Palace x UGG Tasman Slipper, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/762076959473-womens-palace-x-ugg-tasman-slipper</url>
@@ -31833,7 +31847,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="694113177173" available="true" group_id="76959473">
+<offer id="694113177173" available="false" group_id="76959473">
 <name>Слипоны женские UGG Palace x UGG Tasman Slipper, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/762076959473-womens-palace-x-ugg-tasman-slipper</url>
@@ -31847,7 +31861,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="498156029833" available="true" group_id="76959473">
+<offer id="498156029833" available="false" group_id="76959473">
 <name>Слипоны женские UGG Palace x UGG Tasman Slipper, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/762076959473-womens-palace-x-ugg-tasman-slipper</url>
@@ -31861,7 +31875,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="881127900343" available="true" group_id="76959473">
+<offer id="881127900343" available="false" group_id="76959473">
 <name>Слипоны женские UGG Palace x UGG Tasman Slipper, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/762076959473-womens-palace-x-ugg-tasman-slipper</url>
@@ -33821,7 +33835,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="386413075433" available="true" group_id="200996833">
+<offer id="386413075433" available="false" group_id="200996833">
 <name>Ботинки мужские UGG Classic Ultra Mini Zip Boot, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/680200996833-mens-classic-ultra-mini-zip-boot</url>
@@ -34367,7 +34381,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="597418563043" available="true" group_id="94937493">
+<offer id="597418563043" available="false" group_id="94937493">
 <name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Burnt Olive</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
@@ -34381,7 +34395,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="903570269993" available="true" group_id="94937493">
+<offer id="903570269993" available="false" group_id="94937493">
 <name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Burnt Olive</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
@@ -34395,7 +34409,7 @@ RN 88276
 <param name="Размер" unit="RU">40</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="327408207333" available="true" group_id="94937493">
+<offer id="327408207333" available="false" group_id="94937493">
 <name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Burnt Olive</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
@@ -35347,7 +35361,7 @@ RN 88276
 <param name="Размер" unit="RU">46</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="207561442743" available="true" group_id="308070673">
+<offer id="207561442743" available="false" group_id="308070673">
 <name>Ботинки мужские UGG Burleigh Chelsea, цвет Chocolate</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/588308070673-mens-burleigh-chelsea</url>
@@ -35571,7 +35585,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="784136860913" available="true" group_id="165516953">
+<offer id="784136860913" available="false" group_id="165516953">
 <name>Слипоны женские UGG Goldenstar Clog, цвет Chocolate</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/522165516953-womens-goldenstar-clog</url>
@@ -37027,7 +37041,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="306633254133" available="true" group_id="101671253">
+<offer id="306633254133" available="false" group_id="101671253">
 <name>Детская обувь детские UGG Baby Sparrow, цвет Woodland Yellow</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/kids/tproduct/637101671253-kids-baby-sparrow</url>
@@ -37040,7 +37054,7 @@ RN 88276
 <param name="Цвет">Woodland Yellow</param>
 <param name="Пол">Детский</param>
 </offer>
-<offer id="825770829833" available="true" group_id="101671253">
+<offer id="825770829833" available="false" group_id="101671253">
 <name>Детская обувь детские UGG Baby Sparrow, цвет Woodland Red</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/kids/tproduct/637101671253-kids-baby-sparrow</url>
@@ -37053,7 +37067,7 @@ RN 88276
 <param name="Цвет">Woodland Red</param>
 <param name="Пол">Детский</param>
 </offer>
-<offer id="578249568273" available="true" group_id="101671253">
+<offer id="578249568273" available="false" group_id="101671253">
 <name>Детская обувь детские UGG Baby Sparrow, цвет Woodland Pink</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/kids/tproduct/637101671253-kids-baby-sparrow</url>
@@ -37066,7 +37080,7 @@ RN 88276
 <param name="Цвет">Woodland Pink</param>
 <param name="Пол">Детский</param>
 </offer>
-<offer id="533532500503" available="true" group_id="101671253">
+<offer id="533532500503" available="false" group_id="101671253">
 <name>Детская обувь детские UGG Baby Sparrow, цвет Woodland Grey</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/kids/tproduct/637101671253-kids-baby-sparrow</url>
@@ -37079,7 +37093,7 @@ RN 88276
 <param name="Цвет">Woodland Grey</param>
 <param name="Пол">Детский</param>
 </offer>
-<offer id="576937724893" available="true" group_id="101671253">
+<offer id="576937724893" available="false" group_id="101671253">
 <name>Детская обувь детские UGG Baby Sparrow, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/kids/tproduct/637101671253-kids-baby-sparrow</url>
@@ -38072,7 +38086,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="147940160683" available="true" group_id="572340803">
+<offer id="147940160683" available="false" group_id="572340803">
 <name>Слипоны женские UGG Tazz Braid, цвет Natural</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/301572340803-womens-tazz-braid</url>
@@ -38086,7 +38100,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="895959116283" available="true" group_id="572340803">
+<offer id="895959116283" available="false" group_id="572340803">
 <name>Слипоны женские UGG Tazz Braid, цвет Natural</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/301572340803-womens-tazz-braid</url>
@@ -38100,7 +38114,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="818130746093" available="true" group_id="572340803">
+<offer id="818130746093" available="false" group_id="572340803">
 <name>Слипоны женские UGG Tazz Braid, цвет Natural</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/301572340803-womens-tazz-braid</url>
@@ -39948,7 +39962,7 @@ RN 88276
 <param name="Размер" unit="RU">44</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="278685354383" available="true" group_id="419343703">
+<offer id="278685354383" available="false" group_id="419343703">
 <name>Ботинки женские UGG Martin Knit, цвет Dusk</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/268419343703-womens-martin-knit</url>
@@ -39962,7 +39976,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="424113331153" available="true" group_id="419343703">
+<offer id="424113331153" available="false" group_id="419343703">
 <name>Ботинки женские UGG Martin Knit, цвет Dusk</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/268419343703-womens-martin-knit</url>
@@ -40060,7 +40074,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="158421239783" available="true" group_id="469866903">
+<offer id="158421239783" available="false" group_id="469866903">
 <name>Ботинки мужские UGG Classic Mini Star Wars, цвет Основной</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/523469866903-mens-classic-mini-star-wars</url>
@@ -40074,7 +40088,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="385095093323" available="true" group_id="469866903">
+<offer id="385095093323" available="false" group_id="469866903">
 <name>Ботинки мужские UGG Classic Mini Star Wars, цвет Основной</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/523469866903-mens-classic-mini-star-wars</url>
@@ -40088,7 +40102,7 @@ RN 88276
 <param name="Размер" unit="RU">42</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="188978987193" available="true" group_id="469866903">
+<offer id="188978987193" available="false" group_id="469866903">
 <name>Ботинки мужские UGG Classic Mini Star Wars, цвет Основной</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/523469866903-mens-classic-mini-star-wars</url>
@@ -40102,7 +40116,7 @@ RN 88276
 <param name="Размер" unit="RU">44</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="947984374443" available="true" group_id="469866903">
+<offer id="947984374443" available="false" group_id="469866903">
 <name>Ботинки мужские UGG Classic Mini Star Wars, цвет Основной</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/523469866903-mens-classic-mini-star-wars</url>
@@ -40116,7 +40130,7 @@ RN 88276
 <param name="Размер" unit="RU">45</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="419513390213" available="true" group_id="469866903">
+<offer id="419513390213" available="false" group_id="469866903">
 <name>Ботинки мужские UGG Classic Mini Star Wars, цвет Основной</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/523469866903-mens-classic-mini-star-wars</url>
@@ -40578,7 +40592,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="902102199643" available="true" group_id="288948823">
+<offer id="902102199643" available="false" group_id="288948823">
 <name>Ботинки женские UGG Classic Mini Zip II, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/844288948823-womens-classic-mini-zip-ii</url>
@@ -40774,7 +40788,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="662757720893" available="true" group_id="577081553">
+<offer id="662757720893" available="false" group_id="577081553">
 <name>Ботинки женские UGG Classic Mini Metallic, цвет Navy</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/983577081553-womens-classic-mini-metallic</url>
@@ -40913,7 +40927,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="513379792163" available="true" group_id="735281133">
+<offer id="513379792163" available="false" group_id="735281133">
 <name>Слипоны мужские UGG Tasman Slip-On Black TNL, цвет Основной</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/326735281133-mens-tasman-slip-on-black-tnl</url>
@@ -41753,7 +41767,7 @@ RN 88276
 <param name="Размер" unit="RU">45</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="346085531753" available="true" group_id="809539673">
+<offer id="346085531753" available="false" group_id="809539673">
 <name>Ботинки мужские UGG Classic Short II, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/641809539673-mens-classic-short-ii</url>
@@ -43040,7 +43054,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="680219308403" available="true" group_id="276975053">
+<offer id="680219308403" available="false" group_id="276975053">
 <name>Слипоны мужские UGG Slippers Scufette, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/648276975053-mens-slippers-scufette</url>
