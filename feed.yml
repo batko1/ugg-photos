@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-30T13:22:31+04:00">
+<yml_catalog date="2026-10-30T13:37:29+04:00">
 <shop>
 <name>UGG Россия</name>
 <company>UGG Россия</company>
@@ -2066,7 +2066,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="108331331501" available="true" group_id="408046181">
+<offer id="108331331501" available="false" group_id="408046181">
 <name>Ботинки женские UGG Neumel Boot, цвет Cappuccino</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/882408046181-womens-neumel-boot</url>
@@ -3257,7 +3257,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="375815349081" available="true" group_id="749368031">
+<offer id="375815349081" available="false" group_id="749368031">
 <name>Ботинки женские UGG Neumel Platform Chelsea, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/725749368031-womens-neumel-platform-chelsea</url>
@@ -6902,7 +6902,7 @@ RN 88276
 <param name="Размер" unit="RU">40</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="981957190961" available="true" group_id="441913171">
+<offer id="981957190961" available="false" group_id="441913171">
 <name>Ботинки женские UGG Neumel Flex, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/104441913171-womens-neumel-flex</url>
@@ -7532,7 +7532,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="919665683731" available="true" group_id="441913171">
+<offer id="919665683731" available="false" group_id="441913171">
 <name>Ботинки женские UGG Neumel Flex, цвет Grey-Violet</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/104441913171-womens-neumel-flex</url>
@@ -8505,7 +8505,7 @@ RN 88276
 <param name="Размер" unit="RU">39</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="962998534021" available="true" group_id="341420001">
+<offer id="962998534021" available="false" group_id="341420001">
 <name>Ботинки женские UGG Funkette Platform Boots, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/832341420001-womens-funkette-platform-boots</url>
@@ -11727,7 +11727,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="982326136561" available="false" group_id="852131591">
+<offer id="982326136561" available="true" group_id="852131591">
 <name>Ботинки женские UGG Martin Boot, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/254852131591-womens-martin-boot</url>
@@ -12629,7 +12629,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="973189952003" available="false" group_id="455229881">
+<offer id="973189952003" available="true" group_id="455229881">
 <name>Ботинки женские UGG Tasman Hybrid, цвет Chocolate</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/837455229881-womens-tasman-hybrid</url>
@@ -17566,7 +17566,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="194447430851" available="true" group_id="140461351">
+<offer id="194447430851" available="false" group_id="140461351">
 <name>Ботинки женские UGG Shanti, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/boots/tproduct/222140461351-womens-shanti</url>
@@ -18305,7 +18305,7 @@ RN 88276
 <param name="Размер" unit="RU">39</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="778132845393" available="true" group_id="200411873">
+<offer id="778132845393" available="false" group_id="200411873">
 <name>Слипоны женские UGG Classic Fat Ding Slip On, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/590200411873-womens-classic-fat-ding-slip-on</url>
@@ -18359,7 +18359,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="362352018503" available="true" group_id="200411873">
+<offer id="362352018503" available="false" group_id="200411873">
 <name>Слипоны женские UGG Classic Fat Ding Slip On, цвет Chocolate</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/590200411873-womens-classic-fat-ding-slip-on</url>
@@ -18539,7 +18539,7 @@ RN 88276
 <param name="Размер" unit="RU">40</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="823277916603" available="false" group_id="200411873">
+<offer id="823277916603" available="true" group_id="200411873">
 <name>Слипоны женские UGG Classic Fat Ding Slip On, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/590200411873-womens-classic-fat-ding-slip-on</url>
@@ -21599,7 +21599,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="202082538753" available="true" group_id="963358083">
+<offer id="202082538753" available="false" group_id="963358083">
 <name>Ботинки мужские UGG Classic Mini Guard GTX Boot, цвет Guard Chocolate</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/757963358083-mens-classic-mini-guard-gtx-boot</url>
@@ -21689,7 +21689,7 @@ RN 88276
 <param name="Размер" unit="RU">46</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="199272612283" available="true" group_id="963358083">
+<offer id="199272612283" available="false" group_id="963358083">
 <name>Ботинки мужские UGG Classic Mini Guard GTX Boot, цвет Guard Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/757963358083-mens-classic-mini-guard-gtx-boot</url>
@@ -22490,7 +22490,7 @@ RN 88276
 <param name="Размер" unit="RU">43</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="923512310933" available="true" group_id="278836233">
+<offer id="923512310933" available="false" group_id="278836233">
 <name>Слипоны мужские UGG Hayden Slip On, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/237278836233-mens-hayden-slip-on</url>
@@ -23087,7 +23087,7 @@ RN 88276
 <param name="Размер" unit="RU">46</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="521365999773" available="false" group_id="627039743">
+<offer id="521365999773" available="true" group_id="627039743">
 <name>Слипоны мужские UGG Tasman Slipper GTX, цвет Chocolate</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/630627039743-mens-tasman-slipper-gtx</url>
@@ -24719,6 +24719,90 @@ RN 88276
 Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
 <param name="Цвет">Chestnut</param>
 <param name="Размер" unit="RU">45</param>
+<param name="Пол">Мужской</param>
+</offer>
+<offer id="681750570313" available="true" group_id="421650643">
+<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
+<price>12500</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
+Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">41</param>
+<param name="Пол">Мужской</param>
+</offer>
+<offer id="560535151793" available="true" group_id="421650643">
+<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
+<price>12500</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
+Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">42</param>
+<param name="Пол">Мужской</param>
+</offer>
+<offer id="531968525813" available="true" group_id="421650643">
+<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
+<price>12500</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
+Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">43</param>
+<param name="Пол">Мужской</param>
+</offer>
+<offer id="226867176823" available="true" group_id="421650643">
+<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
+<price>12500</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
+Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">44</param>
+<param name="Пол">Мужской</param>
+</offer>
+<offer id="407544821313" available="true" group_id="421650643">
+<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
+<price>12500</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
+Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">45</param>
+<param name="Пол">Мужской</param>
+</offer>
+<offer id="515319497763" available="true" group_id="421650643">
+<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
+<price>12500</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
+Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">46</param>
 <param name="Пол">Мужской</param>
 </offer>
 <offer id="523546700383" available="true" group_id="885845663">
@@ -27045,7 +27129,7 @@ RN 88276
 <param name="Размер" unit="RU">46</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="226102852363" available="true" group_id="164746033">
+<offer id="226102852363" available="false" group_id="164746033">
 <name>Ботинки мужские UGG Ultra Mini Hybrid, цвет Chestnut Big Sky</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/510164746033-mens-ultra-mini-hybrid</url>
@@ -27101,7 +27185,7 @@ RN 88276
 <param name="Размер" unit="RU">42</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="401588016473" available="false" group_id="164746033">
+<offer id="401588016473" available="true" group_id="164746033">
 <name>Ботинки мужские UGG Ultra Mini Hybrid, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/510164746033-mens-ultra-mini-hybrid</url>
@@ -27255,7 +27339,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="463810003623" available="true" group_id="731246673">
+<offer id="463810003623" available="false" group_id="731246673">
 <name>Ботинки женские UGG Classic Ultra Mini, цвет Alpine Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/384731246673-womens-classic-ultra-mini</url>
@@ -27297,7 +27381,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="196503290613" available="true" group_id="731246673">
+<offer id="196503290613" available="false" group_id="731246673">
 <name>Ботинки женские UGG Classic Ultra Mini, цвет Smoke</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/384731246673-womens-classic-ultra-mini</url>
@@ -27325,7 +27409,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="764280664993" available="true" group_id="731246673">
+<offer id="764280664993" available="false" group_id="731246673">
 <name>Ботинки женские UGG Classic Ultra Mini, цвет Smoke</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/384731246673-womens-classic-ultra-mini</url>
@@ -27843,7 +27927,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="158808771753" available="true" group_id="731246673">
+<offer id="158808771753" available="false" group_id="731246673">
 <name>Ботинки женские UGG Classic Ultra Mini, цвет Leather Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/384731246673-womens-classic-ultra-mini</url>
@@ -29061,7 +29145,7 @@ RN 88276
 <param name="Размер" unit="RU">40</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="790168504263" available="false" group_id="969844593">
+<offer id="790168504263" available="true" group_id="969844593">
 <name>Слипоны женские UGG Tasman Slipper GTX, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/469969844593-womens-tasman-slipper-gtx</url>
@@ -29495,7 +29579,91 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="884665635913" available="true" group_id="987663053">
+<offer id="350338105123" available="true" group_id="22471763">
+<name>Ботинки женские UGG Ultra Mini Hybrid, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/827022471763-womens-ultra-mini-hybrid</url>
+<price>11500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3639-3363-4832-b931-353565643566/d5b9246d8bc59f779f6d5949cf1769ea.png</picture>
+<description>UGG Ultra Mini Hybrid — ботинки для женщин.
+Цвета в наличии: Mustard Seed, Smoke, Whitecap, Chestnut Orange, Black. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">36</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="376541696433" available="true" group_id="22471763">
+<name>Ботинки женские UGG Ultra Mini Hybrid, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/827022471763-womens-ultra-mini-hybrid</url>
+<price>11500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3639-3363-4832-b931-353565643566/d5b9246d8bc59f779f6d5949cf1769ea.png</picture>
+<description>UGG Ultra Mini Hybrid — ботинки для женщин.
+Цвета в наличии: Mustard Seed, Smoke, Whitecap, Chestnut Orange, Black. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">37</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="682693634363" available="true" group_id="22471763">
+<name>Ботинки женские UGG Ultra Mini Hybrid, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/827022471763-womens-ultra-mini-hybrid</url>
+<price>11500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3639-3363-4832-b931-353565643566/d5b9246d8bc59f779f6d5949cf1769ea.png</picture>
+<description>UGG Ultra Mini Hybrid — ботинки для женщин.
+Цвета в наличии: Mustard Seed, Smoke, Whitecap, Chestnut Orange, Black. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">38</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="678846626043" available="true" group_id="22471763">
+<name>Ботинки женские UGG Ultra Mini Hybrid, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/827022471763-womens-ultra-mini-hybrid</url>
+<price>11500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3639-3363-4832-b931-353565643566/d5b9246d8bc59f779f6d5949cf1769ea.png</picture>
+<description>UGG Ultra Mini Hybrid — ботинки для женщин.
+Цвета в наличии: Mustard Seed, Smoke, Whitecap, Chestnut Orange, Black. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">39</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="183720857783" available="true" group_id="22471763">
+<name>Ботинки женские UGG Ultra Mini Hybrid, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/827022471763-womens-ultra-mini-hybrid</url>
+<price>11500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3639-3363-4832-b931-353565643566/d5b9246d8bc59f779f6d5949cf1769ea.png</picture>
+<description>UGG Ultra Mini Hybrid — ботинки для женщин.
+Цвета в наличии: Mustard Seed, Smoke, Whitecap, Chestnut Orange, Black. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">40</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="379896249213" available="true" group_id="22471763">
+<name>Ботинки женские UGG Ultra Mini Hybrid, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/827022471763-womens-ultra-mini-hybrid</url>
+<price>11500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3639-3363-4832-b931-353565643566/d5b9246d8bc59f779f6d5949cf1769ea.png</picture>
+<description>UGG Ultra Mini Hybrid — ботинки для женщин.
+Цвета в наличии: Mustard Seed, Smoke, Whitecap, Chestnut Orange, Black. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">41</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="884665635913" available="false" group_id="987663053">
 <name>Слипоны женские UGG Finish Slipper, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/914987663053-womens-finish-slipper</url>
@@ -32939,7 +33107,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="480901524603" available="true" group_id="994636273">
+<offer id="480901524603" available="false" group_id="994636273">
 <name>Кроссовки женские UGG Venture Daze Cozy, цвет Natural</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/563994636273-womens-venture-daze-cozy</url>
@@ -33667,7 +33835,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="477111666593" available="true" group_id="200996833">
+<offer id="477111666593" available="false" group_id="200996833">
 <name>Ботинки мужские UGG Classic Ultra Mini Zip Boot, цвет Smoke</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/680200996833-mens-classic-ultra-mini-zip-boot</url>
@@ -33723,7 +33891,7 @@ RN 88276
 <param name="Размер" unit="RU">42</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="268029934073" available="true" group_id="200996833">
+<offer id="268029934073" available="false" group_id="200996833">
 <name>Ботинки мужские UGG Classic Ultra Mini Zip Boot, цвет Khaki</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/680200996833-mens-classic-ultra-mini-zip-boot</url>
@@ -34311,7 +34479,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="424246846423" available="true" group_id="94937493">
+<offer id="424246846423" available="false" group_id="94937493">
 <name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
@@ -34423,6 +34591,90 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
+<offer id="969510287423" available="true" group_id="94937493">
+<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
+<price>10500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
+Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">36</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="434245214323" available="true" group_id="94937493">
+<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
+<price>10500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
+Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">37</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="715456297163" available="true" group_id="94937493">
+<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
+<price>10500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
+Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">38</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="901134982803" available="true" group_id="94937493">
+<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
+<price>10500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
+Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">39</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="861103451103" available="true" group_id="94937493">
+<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
+<price>10500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
+Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">40</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="246938748343" available="true" group_id="94937493">
+<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
+<vendor>UGG</vendor>
+<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
+<price>10500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
+<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
+Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
+<param name="Цвет">Chocolate</param>
+<param name="Размер" unit="RU">41</param>
+<param name="Пол">Женский</param>
+</offer>
 <offer id="220053604993" available="true" group_id="579418273">
 <name>Ботинки женские UGG Classic Mini Platform, цвет Smoke</name>
 <vendor>UGG</vendor>
@@ -34507,7 +34759,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="309494569023" available="true" group_id="579418273">
+<offer id="309494569023" available="false" group_id="579418273">
 <name>Ботинки женские UGG Classic Mini Platform, цвет Cappuccino</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/723579418273-womens-classic-mini-platform</url>
@@ -35613,7 +35865,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="785669027073" available="true" group_id="165516953">
+<offer id="785669027073" available="false" group_id="165516953">
 <name>Слипоны женские UGG Goldenstar Clog, цвет Chocolate</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/522165516953-womens-goldenstar-clog</url>
@@ -35655,7 +35907,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="427187277913" available="true" group_id="165516953">
+<offer id="427187277913" available="false" group_id="165516953">
 <name>Слипоны женские UGG Goldenstar Clog, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/522165516953-womens-goldenstar-clog</url>
@@ -35781,7 +36033,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="590877345423" available="true" group_id="59538963">
+<offer id="590877345423" available="false" group_id="59538963">
 <name>Ботинки женские UGG Classic Mini Blow, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/477059538963-womens-classic-mini-blow</url>
@@ -35949,7 +36201,7 @@ RN 88276
 <param name="Размер" unit="RU">36</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="343805770793" available="true" group_id="315372173">
+<offer id="343805770793" available="false" group_id="315372173">
 <name>Слипоны женские UGG Slippers Disquette, цвет Chestnut</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/539315372173-womens-slippers-disquette</url>
@@ -36033,7 +36285,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="228162904093" available="true" group_id="908185423">
+<offer id="228162904093" available="false" group_id="908185423">
 <name>Слипоны женские UGG Hailey Fluff Slippers, цвет Natural</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/447908185423-womens-hailey-fluff-slippers</url>
@@ -37134,7 +37386,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="943700242673" available="true" group_id="537979293">
+<offer id="943700242673" available="false" group_id="537979293">
 <name>Слипоны женские UGG Tazz Platform Leather, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/135537979293-womens-tazz-platform-leather</url>
@@ -39808,7 +40060,7 @@ RN 88276
 <param name="Размер" unit="RU">38</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="780426117873" available="true" group_id="981418873">
+<offer id="780426117873" available="false" group_id="981418873">
 <name>Слипоны женские UGG Stitch Slip On, цвет Dusk</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/193981418873-womens-stitch-slip-on</url>
@@ -39990,7 +40242,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="203402540473" available="true" group_id="419343703">
+<offer id="203402540473" available="false" group_id="419343703">
 <name>Ботинки женские UGG Martin Knit, цвет Sand</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/268419343703-womens-martin-knit</url>
@@ -40829,7 +41081,7 @@ RN 88276
 <param name="Размер" unit="RU">37</param>
 <param name="Пол">Женский</param>
 </offer>
-<offer id="584392951433" available="true" group_id="577081553">
+<offer id="584392951433" available="false" group_id="577081553">
 <name>Ботинки женские UGG Classic Mini Metallic, цвет Grey</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/women/tproduct/983577081553-womens-classic-mini-metallic</url>
@@ -40941,7 +41193,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="167889384223" available="true" group_id="832832413">
+<offer id="167889384223" available="false" group_id="832832413">
 <name>Ботинки мужские UGG Neumel Flex, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/462832832413-mens-neumel-flex</url>
@@ -42004,7 +42256,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="517403973463" available="true" group_id="165616303">
+<offer id="517403973463" available="false" group_id="165616303">
 <name>Ботинки мужские UGG Classic Short Zip II, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/386165616303-mens-classic-short-zip-ii</url>
@@ -43054,7 +43306,7 @@ RN 88276
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="680219308403" available="false" group_id="276975053">
+<offer id="680219308403" available="true" group_id="276975053">
 <name>Слипоны мужские UGG Slippers Scufette, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/648276975053-mens-slippers-scufette</url>
@@ -43194,7 +43446,7 @@ RN 88276
 <param name="Размер" unit="RU">42</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="495344571423" available="true" group_id="698720523">
+<offer id="495344571423" available="false" group_id="698720523">
 <name>Мокасины мужские UGG Ascot Leather, цвет Black</name>
 <vendor>UGG</vendor>
 <url>https://uggirussia.com/catalog/men/tproduct/199698720523-mens-ascot-leather</url>
