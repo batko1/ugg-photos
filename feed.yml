@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-30T13:37:29+04:00">
+<yml_catalog date="2026-10-30T13:43:03+04:00">
 <shop>
 <name>UGG Россия</name>
 <company>UGG Россия</company>
@@ -24721,90 +24721,6 @@ RN 88276
 <param name="Размер" unit="RU">45</param>
 <param name="Пол">Мужской</param>
 </offer>
-<offer id="681750570313" available="true" group_id="421650643">
-<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
-<price>12500</price>
-<currencyId>RUR</currencyId>
-<categoryId>8</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
-Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
-<param name="Размер" unit="RU">41</param>
-<param name="Пол">Мужской</param>
-</offer>
-<offer id="560535151793" available="true" group_id="421650643">
-<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
-<price>12500</price>
-<currencyId>RUR</currencyId>
-<categoryId>8</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
-Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
-<param name="Размер" unit="RU">42</param>
-<param name="Пол">Мужской</param>
-</offer>
-<offer id="531968525813" available="true" group_id="421650643">
-<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
-<price>12500</price>
-<currencyId>RUR</currencyId>
-<categoryId>8</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
-Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
-<param name="Размер" unit="RU">43</param>
-<param name="Пол">Мужской</param>
-</offer>
-<offer id="226867176823" available="true" group_id="421650643">
-<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
-<price>12500</price>
-<currencyId>RUR</currencyId>
-<categoryId>8</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
-Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
-<param name="Размер" unit="RU">44</param>
-<param name="Пол">Мужской</param>
-</offer>
-<offer id="407544821313" available="true" group_id="421650643">
-<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
-<price>12500</price>
-<currencyId>RUR</currencyId>
-<categoryId>8</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
-Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
-<param name="Размер" unit="RU">45</param>
-<param name="Пол">Мужской</param>
-</offer>
-<offer id="515319497763" available="true" group_id="421650643">
-<name>Кроссовки мужские UGG Lowmel Sneaker Guard GTX, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/men/tproduct/789421650643-mens-lowmel-sneaker-guard-gtx</url>
-<price>12500</price>
-<currencyId>RUR</currencyId>
-<categoryId>8</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Lowmel Sneaker Guard GTX — кроссовки для мужчин.
-Цвета в наличии: Black, Khaki, Chestnut. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
-<param name="Размер" unit="RU">46</param>
-<param name="Пол">Мужской</param>
-</offer>
 <offer id="523546700383" available="true" group_id="885845663">
 <name>Кроссовки мужские UGG Lowmel Sneaker, цвет Chocolate</name>
 <vendor>UGG</vendor>
@@ -34588,90 +34504,6 @@ RN 88276
 <description>UGG Classic Ultra Mini Platform — ботинки для женщин.
 Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
 <param name="Цвет">Burnt Olive</param>
-<param name="Размер" unit="RU">41</param>
-<param name="Пол">Женский</param>
-</offer>
-<offer id="969510287423" available="true" group_id="94937493">
-<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
-<price>10500</price>
-<currencyId>RUR</currencyId>
-<categoryId>2</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
-Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
-<param name="Размер" unit="RU">36</param>
-<param name="Пол">Женский</param>
-</offer>
-<offer id="434245214323" available="true" group_id="94937493">
-<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
-<price>10500</price>
-<currencyId>RUR</currencyId>
-<categoryId>2</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
-Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
-<param name="Размер" unit="RU">37</param>
-<param name="Пол">Женский</param>
-</offer>
-<offer id="715456297163" available="true" group_id="94937493">
-<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
-<price>10500</price>
-<currencyId>RUR</currencyId>
-<categoryId>2</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
-Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
-<param name="Размер" unit="RU">38</param>
-<param name="Пол">Женский</param>
-</offer>
-<offer id="901134982803" available="true" group_id="94937493">
-<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
-<price>10500</price>
-<currencyId>RUR</currencyId>
-<categoryId>2</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
-Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
-<param name="Размер" unit="RU">39</param>
-<param name="Пол">Женский</param>
-</offer>
-<offer id="861103451103" available="true" group_id="94937493">
-<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
-<price>10500</price>
-<currencyId>RUR</currencyId>
-<categoryId>2</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
-Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
-<param name="Размер" unit="RU">40</param>
-<param name="Пол">Женский</param>
-</offer>
-<offer id="246938748343" available="true" group_id="94937493">
-<name>Ботинки женские UGG Classic Ultra Mini Platform, цвет Chocolate</name>
-<vendor>UGG</vendor>
-<url>https://uggirussia.com/catalog/women/tproduct/365094937493-womens-classic-ultra-mini-platform</url>
-<price>10500</price>
-<currencyId>RUR</currencyId>
-<categoryId>2</categoryId>
-<picture>https://static.tildacdn.com/stor3263-3830-4839-b038-373936326162/ff100dc2f9fbf0df4c9c48d3b3c910a0.png</picture>
-<description>UGG Classic Ultra Mini Platform — ботинки для женщин.
-Цвета в наличии: Smoke, Cappuccino, Grey, Sand, Chestnut, Black, Burnt Olive. Доступные размеры показаны при выборе цвета.</description>
-<param name="Цвет">Chocolate</param>
 <param name="Размер" unit="RU">41</param>
 <param name="Пол">Женский</param>
 </offer>
